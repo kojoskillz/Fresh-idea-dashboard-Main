@@ -27,8 +27,7 @@ The **School Management System Dashboard** is a web-based platform designed to s
 - Node.js (vXX.X.X or higher)  
 - Next.js framework (latest version)  
 - Database (PostgreSQL/MySQL/MongoDB)  
-- Tailwind CSS (for styling)  
-- Material UI (for UI components)
+- Tailwind CSS (for styling)
 - Reactjs
 -Typescript
 ### **Setup Instructions**  
