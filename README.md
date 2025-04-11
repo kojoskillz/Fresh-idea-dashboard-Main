@@ -3,7 +3,7 @@
 ---
 
 # **School Management System Dashboard - Documentation**  
-### Version: 1.0  
+### Version: 1.0.1  
 ### Author: [Kwadwo Ebenezer]  
 ### Last Updated: [4/9/2025]  
 
