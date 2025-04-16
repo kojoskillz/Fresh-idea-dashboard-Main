@@ -25,35 +25,35 @@ const data = {
       items: [
         {
           title: "Dashboard",
-          url: "#",
+          url: "/dashboard ",
         },
         {
           title: "Profile",
-          url: "/dashboard/profile",
+          url: "/profile ",
         },
         {
           title: "Subjects",
-          url: "#",
+          url: "/subjects",
         },
         {
           title: "Your Students",
-          url: "#",
+          url: "students",
         },
         {
           title: "View Previous Results",
-          url: "#",
+          url: "/previous_results",
         },
         {
           title: "Results",
-          url: "#",
+          url: "results",
         },
         {
           title: "Quick Class Results",
-          url: "#",
+          url: "quick_class_results",
         },
         {
           title: "Sign Out",
-          url: "#",
+          url: "./src/app/page",
         },
       ],
     },
